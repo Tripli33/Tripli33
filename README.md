@@ -22,7 +22,7 @@ I'm a second year student of Physics and IT department. My goal and dream is to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="45" alt="jquery logo" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" height="40" width="45" alt="dot-net logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="45" alt="dotnetcore logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="45" alt="microsoftsqlserver logo" />
+  <img src="https://vectorified.com/images/sql-server-icon-6.png" height="40" width="45" alt="microsoftsqlserver logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="45" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="45" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="45" alt="jetbrains logo" />
