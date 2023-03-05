@@ -37,10 +37,3 @@ I'm a second year student of Physics and IT department. My goal and dream is to 
   <a href="https://www.linkedin.com/in/roman-savenko-b5298a263/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo" /></a>
   <a href="https://discord.com/users/1051197496992469116" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="40" alt="discord logo" /></a>    
 </div>
-
-### Weekly development background
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
