@@ -9,7 +9,7 @@ I'm a second year student of Physics and IT department. My goal and dream is to 
 <img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Tripli33" height="150" alt="stats graph"  />
 
 * 🌍  I'm based in Gomel, Belarus
-* 🔬  I'm passionate about science, software, open source and technology in general
+* 🔬  I'm passionate software, open source and technology in general
 * 🖥️  See my CV at [GitHub](http://tripli33.github.io/main-cv/)
 * ✉️  You can contact me at [rsaven.wk@gmail.com](mailto:rsaven.wk@gmail.com)
 * 🧠  I'm learning ASP.NET core
