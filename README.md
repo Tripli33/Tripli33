@@ -30,6 +30,11 @@ I'm a second year student of Physics and IT department. My goal and dream is to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="45" alt="figma logo" />
 </div>
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### Socials
 
 <div align="left">
