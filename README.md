@@ -6,7 +6,7 @@ Hi 👋 My name is Roman
 
 I'm a second year student of Physics and IT department. My goal and dream is to become as a full stack .NET web developer. I like to learn something new and create useful and interesting things.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Tripli33" height="150" alt="stats graph"  />
+<img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Tripli33" height="140" alt="stats graph"  />
 
 * 🌍  I'm based in Gomel, Belarus
 * 🖥️  See my CV at [GitHub](http://tripli33.github.io/main-cv/)
