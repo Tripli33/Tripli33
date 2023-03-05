@@ -40,6 +40,9 @@ I'm a second year student of Physics and IT department. My goal and dream is to 
 
 ### Weekly development background
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/Tripli33/Tripli33/blob/main/images/stat.svg"
+  alt="WakaTime Activity"
+/>
+
 
