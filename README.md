@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img
-  src="https://github.com/Tripli33/Tripli33/blob/main/images/stat.svg"
-  alt="Tripli33 WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
